@@ -1,8 +1,0 @@
-C:/dev/vulkan_engine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/dev/vulkan_engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/dev/vulkan_engine/cmake-build-debug/app/CMakeFiles/vulkan_application.dir
-C:/dev/vulkan_engine/cmake-build-debug/app/CMakeFiles/edit_cache.dir
-C:/dev/vulkan_engine/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
-C:/dev/vulkan_engine/cmake-build-debug/engine/CMakeFiles/vulkan_engine.dir
-C:/dev/vulkan_engine/cmake-build-debug/engine/CMakeFiles/edit_cache.dir
-C:/dev/vulkan_engine/cmake-build-debug/engine/CMakeFiles/rebuild_cache.dir
