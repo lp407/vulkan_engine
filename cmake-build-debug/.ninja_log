@@ -1,0 +1,5 @@
+# ninja log v5
+6	560	6840799511041861	engine/CMakeFiles/vulkan_engine.dir/src/engine.cpp.obj	749bc79f4993729c
+0	571	6840799511141599	app/CMakeFiles/vulkan_application.dir/src/main.cpp.obj	653777e234b53be1
+563	638	6840799511829744	engine/libvulkan_engine.a	e6fc6c7ed56e1ee1
+639	733	6840799512755699	app/vulkan_application.exe	69fa90b46bb51a26
