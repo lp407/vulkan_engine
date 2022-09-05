@@ -2,5 +2,5 @@
 
 class Shmengine{
 public:
-   static void PrintHelloWorld();
+   static void Init();
 };
